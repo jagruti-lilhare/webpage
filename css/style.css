@@ -1,0 +1,41 @@
+body {
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White text */
+  }
+
+  .box {
+    border: 2px solid #5C5C5C; /* White border */
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+  }
+
+  .brightness-controller {
+    margin-top: 20px;
+  }
+
+  .navbar-brand img {
+    max-height: 50px; /* Adjust the logo size as needed */
+  }
+
+  .navbar {
+    background-color: #000000; /* Black navbar background */
+  }
+
+  .navbar-dark .navbar-nav .nav-link {
+    color: #ffffff; /* White navbar links */
+  }
+
+
+  .smart-led-text {
+    text-align: left;
+  }
+
+  .right-button {
+    text-align: right;
+  }
+
+   /* Increase input size */
+   input[type="range"] {
+    width: 80%;
+  }
